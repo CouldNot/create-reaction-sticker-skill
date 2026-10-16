@@ -18,5 +18,3 @@ ln -s ../../.agents/skills/reaction-sticker-pack .claude/skills/reaction-sticker
 ```
 
 Start a new agent session and say: **“Use the reaction-sticker-pack skill to make 30 modern reaction stickers.”**
-
-The MIT license covers the skill and script. The example meme image is for illustration; its underlying image rights remain with their owners. Check source terms before distributing generated stickers commercially.
